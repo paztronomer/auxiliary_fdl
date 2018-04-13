@@ -1,2 +1,2 @@
-# auxiliary_fdl
-Auxiliary codes for FDL
+# Auxiliary codes
+Help for Omar P., in its work
